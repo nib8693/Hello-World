@@ -1,7 +1,7 @@
-# Project Title
+# Hello World
 
-Simple overview of use/purpose.
+Just a test to see how GitHub is working with unity projects
 
-## Description
+## Take a look at the .gitignore file
 
-An in-depth paragraph about your project and overview of use.
+
